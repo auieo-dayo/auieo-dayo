@@ -2,8 +2,7 @@
 ### こんにちは、あういえおです
 ### HTMLとJavaScriptをちょっとかじった程度ですが、よろしくお願いします...？
 ![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/auieo-dayo?theme=gradient)
-https://github-readme-stats.hackclub.dev/api/wakatime?username=73465&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=73465&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" >
 <div style="display: flex;flex-warp: warp;">
 <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=social">
 <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=social">
